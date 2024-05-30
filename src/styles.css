@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.container {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  margin: 10px auto;
+}
+
+.stars {
+  display: flex;
+  margin: 50px auto;
+}
+
+.star {
+  height: 78px;
+  width: 78px;
+  display: block;
+  cursor: pointer;
+}
